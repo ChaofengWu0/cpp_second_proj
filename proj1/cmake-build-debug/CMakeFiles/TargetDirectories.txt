@@ -1,0 +1,3 @@
+C:/Code/C++/second/cpp_second_proj/proj1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Code/C++/second/cpp_second_proj/proj1/cmake-build-debug/CMakeFiles/proj1.dir
+C:/Code/C++/second/cpp_second_proj/proj1/cmake-build-debug/CMakeFiles/edit_cache.dir
